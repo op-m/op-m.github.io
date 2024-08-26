@@ -1,4 +1,8 @@
 site_name: Op-M's Experiments
+site_url: https://op-m.github.io
+
+theme:
+  name: material
 
 nav:
   - Home: index.md
@@ -10,12 +14,3 @@ nav:
 plugins:
   - search:
       indexing: 'full'
-
-theme:
-  name: mkdocs
-  locale: en
-  highlightjs: true
-
-# markdown_extensions:
-#   - toc:
-#       permalink: true
