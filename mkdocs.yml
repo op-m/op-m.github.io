@@ -6,7 +6,5 @@ nav:
   - Vermicompost: worms.md
   - Gardening: garden.md
 
-theme: readthedocs
-
 markdown_extensions:
   - toc
