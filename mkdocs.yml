@@ -5,6 +5,17 @@ nav:
   - Astronomy: astronomy.md
   - Vermicompost: worms.md
   - Gardening: garden.md
+  - About: about.md
 
-markdown_extensions:
-  - toc
+plugins:
+  - search:
+      indexing: 'full'
+
+theme:
+  name: mkdocs
+  locale: en
+  highlightjs: true
+
+# markdown_extensions:
+#   - toc:
+#       permalink: true

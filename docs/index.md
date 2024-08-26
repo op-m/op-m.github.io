@@ -1,1 +1,1 @@
-Engineer who likes to learn and experiment. Rinse & Repeat :) I am trying to document my experiments with Garden, Astronomy, Worms among several other things!
+Engineer who likes to learn and experiment. Rinse & Repeat :) This site will serve as documentation for my experiments with Garden, Astronomy, Worms among several other things!
