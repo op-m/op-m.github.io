@@ -1,0 +1,12 @@
+site_name: Op-M's Experiments
+
+nav:
+  - Home: index.md
+  - Astronomy: astronomy.md
+  - Vermicompost: worms.md
+  - Gardening: garden.md
+
+theme: readthedocs
+
+markdown_extensions:
+  - toc
